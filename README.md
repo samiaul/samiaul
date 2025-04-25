@@ -6,7 +6,7 @@
 
 ### 🛠 Tech Stack
 - **Languages**: Python, Java, JavaScript, Progress OpenEdge
-- **Tools**: Git, Docker, VSCode / IntelliJ, Jenkins, PostgreSQL
+- **Tools**: Git, Docker, IntelliJ, Jenkins, PostgreSQL
 
 ### 🔧 Projects
 - [**Vijie**](https://github.com/Samiaul/vijie) — A flexible and multi-purpose parser library written in Java
