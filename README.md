@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Samuel
 
-🎓 I'm a student at **Epitech Nantes** (France)  
+🎓 I'm a french student at **Epitech Nantes**
 💼 Currently doing my apprenticeship at **Proginov**  
 💻 Passionate about software design, development, and solving real-world problems with code
 
